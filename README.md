@@ -1,2 +1,2 @@
 # BE-Project
-Bachelor of Engineering Project. 
+Bachelor of Engineering Projects. 
